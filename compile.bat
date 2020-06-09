@@ -1,0 +1,1 @@
+cmake -G "Visual Studio 15 Win64" build "-DCMAKE_TOOLCHAIN_FILE=C:/develop/vcpkg-2020.04/scripts/buildsystems/vcpkg.cmake"
